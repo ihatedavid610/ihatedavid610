@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEELELLEELELOOOOOOOO HIII HELLO IM STILL FIGURING OUT HPW THIS THING WORKS
 
 <!--
 **ihatedavid610/ihatedavid610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
