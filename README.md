@@ -1,3 +1,12 @@
+<table>
+<tr>
+  <td>$${\color{yellowgreen} *HELLO!}$$</td>
+</tr>
+</table>
+
+$${\color{skyblue}evilㅤfillerㅤtext}$$
+
+
 <img width="341" height="339" alt="Screenshot 2026-04-17 114022" src="https://github.com/user-attachments/assets/615e7211-2e28-4cf8-9dee-2b5633ca87a0" />
 
 stupid image while i procrastinate working on the actual readme
