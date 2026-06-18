@@ -36,13 +36,6 @@ ${{\color{#2699a3}{\textsf{ wow!!!! i finally did my readme!! i will add more la
 <img width="99" height="56" alt="PERIDOT GIF STAMP!! EEVVIIILLL" src="https://github.com/user-attachments/assets/33f9e42c-d238-43a0-a204-dc57cfa50f34" />
 <img width="99" height="56" alt="PERIDOT GIF STAMP  RUN!!!!! RUN AWAY!!!" src="https://github.com/user-attachments/assets/acd53527-0c4a-41a1-96cc-c5d2f7b81308" />
 <img width="99" height="56" alt="proud to be PURE EVIL" src="https://github.com/user-attachments/assets/3f0fc704-6fcc-4e7d-b91b-32385b1569fc" />
-<img width="99" height="56" alt="pretty flowers" src="https://github.com/user-attachments/assets/17e51dc5-685e-4b93-9b5a-8dba8d294d23" />
-<img width="99" height="56" alt="clovers" src="https://github.com/user-attachments/assets/6c8d07f8-560e-44f8-9f02-63808f195a3b" />
-<img width="99" height="56" alt="lilypads" src="https://github.com/user-attachments/assets/1566cd82-0803-41f6-8bd6-70121fb9a68d" />
-<img width="99" height="56" alt="mushrooms" src="https://github.com/user-attachments/assets/01b50157-cfa2-4624-b5b9-6ab29cf8ea1b" />
-<img width="99" height="56" alt="foggy place" src="https://github.com/user-attachments/assets/b29328e2-f7c4-45b8-93a0-3d0f933c86eb" />
-<img width="99" height="56" alt="curly leaf" src="https://github.com/user-attachments/assets/37f75289-c81b-401a-974e-6878370b1c2e" />
-<img width="99" height="56" alt="mossy lake" src="https://github.com/user-attachments/assets/3f0342fc-3324-4ffa-9186-6f66940889b2" />
 <img width="99" height="56" alt="not ignoring just bad at talk" src="https://github.com/user-attachments/assets/68d5e58f-7ebd-40ad-b79a-12f1b2347692" />
 <img width="99" height="56" alt="doggyyy" src="https://github.com/user-attachments/assets/1dea5f41-0060-49ca-a643-991a36da9357" />
 <img width="99" height="56" alt="lgbt flags merge" src="https://github.com/user-attachments/assets/0f610bb5-6e91-4b67-b2c3-a1bf5b14e95a" />
